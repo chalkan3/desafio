@@ -42,7 +42,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Microndas\funcionalidades\programa1.cs" />
+    <Compile Include="Microndas\Botoes\botao.cs" />
+    <Compile Include="Microndas\Botoes\BotaoAdicionarPotencia.cs" />
+    <Compile Include="Microndas\Botoes\BotaoAdicionarTempo.cs" />
+    <Compile Include="Microndas\Botoes\BotaoAquecer.cs" />
+    <Compile Include="Microndas\Botoes\BotaoCriarNovo.cs" />
+    <Compile Include="Microndas\Botoes\BotaoEscolherUm.cs" />
+    <Compile Include="Microndas\Botoes\BotaoInicioRapido.cs" />
+    <Compile Include="Microndas\Botoes\BotaoMostarTodos.cs" />
+    <Compile Include="Microndas\Botoes\BotaoTrocarProduto.cs" />
+    <Compile Include="Microndas\display.cs" />
+    <Compile Include="Microndas\Funcionalidades\Arquivo.cs" />
+    <Compile Include="Microndas\Funcionalidades\Cronometro.cs" />
+    <Compile Include="Microndas\Funcionalidades\Funcionalidades.cs" />
     <Compile Include="Microndas\Microndas.cs" />
     <Compile Include="Microndas\MicrondasException.cs" />
     <Compile Include="Program.cs" />
