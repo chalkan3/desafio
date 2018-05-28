@@ -46,6 +46,8 @@ namespace ClassMicrondas
             Console.WriteLine("Digite escolher_um para escolher uma programacao");
             Console.WriteLine("Digite t para escolher o tempo do programa padrão");
             Console.WriteLine("Digite p para escolher a potencia do programa padrão");
+            Console.WriteLine("Digite a para aquecer");
+
             Console.WriteLine("Deseja utilizar o modo rapido aperte R ");
             Console.WriteLine("Digite trocar_produto para trocar qual produto a ser aquecido. ");
         }
