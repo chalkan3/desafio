@@ -58,8 +58,7 @@ namespace ClassMicrondas
             else
             {
                 Console.WriteLine("Arquivo já está aberto.");
-                Console.WriteLine("Fechando arquivo... Por favor tente novament");
-                arquivo.Close();
+               
                 return null;
             }
 
